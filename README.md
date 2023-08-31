@@ -19,7 +19,7 @@
 [![Issue Welcome][5]][6]
 [![AutoBuild][12]][13]
 
-<a href="https://t.me/joinchat/JjxmyRZZXJWb74I-sCrryA" target="_blank">Telegram</a>
+<!-- <a href="https://t.me/joinchat/JjxmyRZZXJWb74I-sCrryA" target="_blank">Telegram</a>  -->
 
 ##### 源码来源：
 [![kiddin9](https://img.shields.io/badge/compile-kiddin9-red.svg?style=flat&logo=appveyor)](https://github.com/kiddin9/packages-compile)
