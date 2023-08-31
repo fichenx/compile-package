@@ -280,7 +280,8 @@ jobs:
             ${{ env.FIRMWARE }}/*
             openwrt/error*.log
         name: ${{ env.NAME }}
-        tag_name: ${{ env.date1 }}_${{ env.MTARGET }}
+        #tag_name: ${{ env.date1 }}_${{ env.MTARGET }}
+        tag_name: ${{ env.MTARGET }}
         body_path: release.txt
 
     - name: Upload packages for artifact
